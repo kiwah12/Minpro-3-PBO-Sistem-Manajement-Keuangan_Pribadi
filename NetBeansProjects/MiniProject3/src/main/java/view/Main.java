@@ -1,7 +1,6 @@
 package view;
 
-import view.menuUtama;
-import view.menuUtama;
+import view.MenuUtama;
 
 /**
  *
@@ -9,7 +8,7 @@ import view.menuUtama;
  */
 public class Main {
     public static void main(String[] args) {
-        menuUtama menu = new menuUtama();
+        MenuUtama menu = new MenuUtama();
         menu.mulai();
     }
 }
