@@ -133,49 +133,50 @@ Setelah itu, program akan berhenti dan `Scanner` yang digunakan untuk menerima i
 
 Berikut merupakan screenshot tampilan Menu Utama pada Sistem Manajemen Keuangan Pribadi yang menyediakan beberapa fitur untuk mengelola data  Tambah Pemasukan, Tambah Pengeluaran, Lihat Semua Transaksi, Update Transaksi, Hapus Transaksi, Lihat Ringkasan Keuangan, dan Keluar
 
-<img width="862" height="295" alt="image" src="https://github.com/user-attachments/assets/f93f8c8e-b2fe-458b-9257-af2cb5851352" />
+<img width="758" height="215" alt="image" src="https://github.com/user-attachments/assets/4f605b33-36ea-4419-a187-78d1cb87f7e9" />
 
 ### **Tambah Pemasukan**
 
 Berikut merupakan screenshot tampilan Menu Tambah Pemasukan pada Sistem Manajemen Keuangan Pribadi yang digunakan untuk mencatat dan menyimpan data pemasukan ke dalam sistem. 
 
-<img width="1120" height="455" alt="image" src="https://github.com/user-attachments/assets/57c415d2-40b3-409b-9213-4f395332ec18" />
+<img width="1222" height="463" alt="image" src="https://github.com/user-attachments/assets/c9e2d622-4562-485e-8ebc-e287c041c6eb" />
 
 ### **Tambah Pengeluaran**
 
 Berikut merupakan screenshot tampilan **Menu Tambah Pengeluaran** pada Sistem Manajemen Keuangan Pribadi yang digunakan untuk mencatat dan menyimpan data pengeluaran ke dalam sistem.
 
-<img width="1052" height="407" alt="image" src="https://github.com/user-attachments/assets/dc79228b-2854-4be2-b7a8-0a77e4b228d4" />
+<img width="1305" height="505" alt="image" src="https://github.com/user-attachments/assets/2e798df6-692e-4a2c-b63e-6cf0bc5d2b6a" />
 
 ### **Lihat Semua Transaksi**
 
 Berikut merupakan screenshot tampilan Menu Lihat Semua Transaksi pada Sistem Manajemen Keuangan Pribadi yang digunakan untuk menampilkan seluruh data pemasukan dan pengeluaran yang telah tersimpan di dalam sistem. 
 
-<img width="1148" height="357" alt="image" src="https://github.com/user-attachments/assets/eb46612f-f826-4377-8387-f720b476e949" />
+<img width="1498" height="470" alt="image" src="https://github.com/user-attachments/assets/44d48737-e239-4b8f-b83b-904d499527e2" />
 
 ### **Update Transaksi**
 
 Berikut merupakan screenshot tampilan Menu Update Transaksi pada Sistem Manajemen Keuangan Pribadi yang digunakan untuk mengubah data transaksi yang telah tersimpan di dalam sistem. 
 
-<img width="1182" height="480" alt="image" src="https://github.com/user-attachments/assets/4429f620-bd27-4801-8995-a861cb37bc3c" />
+<img width="1417" height="497" alt="image" src="https://github.com/user-attachments/assets/574829fc-c6e3-4602-840e-fc6bff57bdc6" />
 
 ### **Hapus Transaksi**
 
 Berikut merupakan screenshot tampilan Menu Hapus Transaksi pada Sistem Manajemen Keuangan Pribadi yang digunakan untuk menghapus data transaksi yang telah tersimpan di dalam sistem. 
 
-<img width="1317" height="418" alt="image" src="https://github.com/user-attachments/assets/68a1657c-7119-4b44-9cdc-87581ef8ee59" />
+<img width="1598" height="451" alt="image" src="https://github.com/user-attachments/assets/90dc6986-6256-4757-87fe-2284152ab9a9" />
 
 ### **Lihat Ringkasan Keuangan**
 
 Berikut merupakan screenshot tampilan Menu Lihat Ringkasan Keuangan pada Sistem Manajemen Keuangan Pribadi yang digunakan untuk menampilkan ringkasan kondisi keuangan berdasarkan transaksi yang telah tersimpan di dalam sistem. 
 
-<img width="1433" height="321" alt="image" src="https://github.com/user-attachments/assets/d94fe804-e168-4857-b438-cf949cab0ab9" />
+<img width="1663" height="325" alt="image" src="https://github.com/user-attachments/assets/3e36dafa-37ce-4914-acd1-4d617aebaa5c" />
 
 ### **Keluar**
 
 Berikut merupakan screenshot tampilan Menu Keluar pada Sistem Manajemen Keuangan Pribadi yang digunakan untuk mengakhiri penggunaan program.
 
-<img width="856" height="247" alt="image" src="https://github.com/user-attachments/assets/3193236e-4fb0-4f99-bb11-e9bd9d6bd15c" />
+<img width="1542" height="243" alt="image" src="https://github.com/user-attachments/assets/e907d262-8772-462c-9e18-6a35b7aece10" />
+
 
 ## **4. Access Modifier**
 
