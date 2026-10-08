@@ -8,10 +8,10 @@ import java.util.Scanner;
  *
  * @author MSI THIN 15
  */
-public class inputHealper {
+public class InputHelper {
     private Scanner scanner;
  
-    public inputHealper(Scanner scanner) {
+    public InputHelper(Scanner scanner) {
         this.scanner = scanner;
     }
  
@@ -90,4 +90,3 @@ public class inputHealper {
         return nilai;
     }
 }
- 
