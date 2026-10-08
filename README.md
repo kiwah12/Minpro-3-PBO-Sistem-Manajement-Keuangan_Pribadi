@@ -248,7 +248,7 @@ Penerapan polymorphism dapat dilihat pada:
 * **Method hitungPengaruhSaldo()** di-override pada class turunan sehingga menghasilkan nilai yang berbeda, yaitu positif untuk `Pemasukan` dan negatif untuk `Pengeluaran`.
 * **ArrayList<Transaksi>** digunakan untuk menyimpan object dari class `Pemasukan` dan `Pengeluaran` dalam satu list.
   
-Dengan menggunakan polymorphism, program dapat memanggil method yang sama pada object yang berbeda dan menghasilkan perilaku sesuai dengan jenis object tersebut. Penerapan ini membuat pengelolaan berbagai jenis transaksi menjadi lebih fleksibel, berikut screenshot untuk kode Polymorphism.
+Dengan menggunakan polymorphism, program dapat memanggil method yang sama pada object yang berbeda dan menghasilkan perilaku sesuai dengan jenis object tersebut. Penerapan ini membuat pengelolaan berbagai jenis transaksi menjadi lebih fleksibel, berikut screenshot untuk kode Polymorphism yaitu Overriding dan Overloding.
 
 ---
 
@@ -256,7 +256,7 @@ Dengan menggunakan polymorphism, program dapat memanggil method yang sama pada o
 
 ---
 
-<img width="845" height="321" alt="image" src="https://github.com/user-attachments/assets/d1d43dd0-39be-486a-a2f8-15fc383cedc9" />
+<img width="600" height="128" alt="image" src="https://github.com/user-attachments/assets/85e59595-8eb7-4421-bf6c-3dd86cc63729" />
 
 ## **9. MVC (Model-View-Controller)**
 
