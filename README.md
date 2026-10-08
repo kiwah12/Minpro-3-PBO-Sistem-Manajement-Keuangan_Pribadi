@@ -190,12 +190,13 @@ Program menggunakan beberapa access modifier, yaitu:
 Penggunaan access modifier membantu membuat struktur program menjadi lebih teratur karena setiap data dan method memiliki batasan akses sesuai dengan kebutuhannya,
 berikut adalah screenshot untuk kode dari access modifier.
 
+untuk Private:
+
 <img width="475" height="107" alt="image" src="https://github.com/user-attachments/assets/1c60320c-5c76-4b48-85b0-cb7840432e37" />
 
----
+untuk protected:
 
-<img width="680" height="90" alt="image" src="https://github.com/user-attachments/assets/a94013cf-8b5c-4379-ba59-d6292940931f" />
-
+<img width="1036" height="177" alt="image" src="https://github.com/user-attachments/assets/4755daa7-6656-4f6d-ac49-805aa9c5a7da" />
 
 ## **5. Encapsulation + Getter/Setter**
 
@@ -268,4 +269,32 @@ Penerapan MVC terdiri dari:
 
 Dengan menggunakan MVC, program menjadi lebih terstruktur karena bagian data, tampilan, dan proses program dipisahkan sesuai dengan fungsinya. Pemisahan tersebut juga memudahkan proses pengembangan dan pemeliharaan program, berikut screenshot untuk MVC.
 
-<img width="408" height="357" alt="image" src="https://github.com/user-attachments/assets/87f887a7-ae77-4663-9d90-454f363a63a7" />
+<img width="411" height="357" alt="image" src="https://github.com/user-attachments/assets/5d2c5017-7d10-4d72-8e30-3b4e76b2d91e" />
+
+## **10. Abstraction**
+
+Abstraction digunakan untuk menyembunyikan detail implementasi dan hanya menentukan bagian penting yang harus dimiliki oleh suatu objek.
+Pada program ini, abstraction diterapkan melalui abstract class:
+
+<img width="486" height="27" alt="image" src="https://github.com/user-attachments/assets/56d232eb-42ef-4eb4-a089-b296ddb48027" />
+
+Class Transaksi tidak dibuat sebagai objek secara langsung, tetapi digunakan sebagai dasar untuk class Pemasukan dan Pengeluaran.
+
+## **11. Interface**
+
+Interface merupakan sebuah struktur yang digunakan untuk menentukan method yang harus dimiliki oleh class atau object yang mengimplementasikannya. Pada Sistem Manajemen Keuangan Pribadi, interface digunakan sebagai salah satu penerapan nilai tambah untuk membuat struktur program menjadi lebih terorganisir.
+Penerapan interface terdiri dari:
+
+**Interface Katagori** digunakan untuk menentukan method yang berkaitan dengan kategori transaksi, yaitu getNama() dan isLainnya().
+
+<img width="448" height="41" alt="image" src="https://github.com/user-attachments/assets/dfd335a3-e9c6-4226-815d-13ef9b14d6b3" />
+
+**KatagoriPemasukan** digunakan untuk mengimplementasikan interface Katagori dan mengatur kategori yang digunakan pada transaksi pemasukan.
+
+<img width="670" height="21" alt="image" src="https://github.com/user-attachments/assets/b77724e7-78de-431e-8ad0-a2478af1d158" />
+
+**KatagoriPengeluaran** digunakan untuk mengimplementasikan interface Katagori dan mengatur kategori yang digunakan pada transaksi pengeluaran.
+
+<img width="640" height="21" alt="image" src="https://github.com/user-attachments/assets/18c9f6eb-5525-4323-b0e1-189d71343d4f" />
+
+Dengan menggunakan interface, program dapat menentukan method yang harus tersedia pada bagian yang mengimplementasikannya. Penerapan interface juga membantu membuat struktur program menjadi lebih terorganisir dan memisahkan aturan method dari implementasinya. 
